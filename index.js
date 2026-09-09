@@ -15,7 +15,7 @@ async function initMod() {
 		
 		API.trains.registerTrainType({
             id: 'vn-HCMC1',
-            name: 'HCMC Line 1 Train',
+            name: 'HCMC Line 1',
             description: '3-car trainset on the Ho Chi Minh City Metro Line 1. Capable of multiple working for 2 sets for 6 cars.',
             stats: {
                 maxAcceleration: 1.1,
