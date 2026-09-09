@@ -1,0 +1,13 @@
+{
+  "id": "conceptrains",
+  "name": "conceptrains",
+  "description": "Adds trains in service with Vietnamese metro networks",
+  "version": "1.0.0",
+  "author": {
+    "name": ".c.luu / Phan Co"
+  },
+  "main": "index.js",
+  "dependencies": {
+    "subway-builder": ">=1.7.0"
+  }
+}
